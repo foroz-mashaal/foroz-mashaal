@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @foroz-mashaal
-- 👀 I’m interested in devops
 - 🌱 I’m Microsoft Azure DevOps admin
 - 📫 foroz.mashaal@gmail.com
 <!---
